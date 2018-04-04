@@ -1,2 +1,2 @@
 # gitskills
-creating a new branch is quackl
+creating a new branch is quick & sample
